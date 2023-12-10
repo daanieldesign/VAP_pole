@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAP_pole", "VAP_pole\VAP_pole.csproj", "{2CBD87F9-731B-42FF-8BED-614A423A3471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBD87F9-731B-42FF-8BED-614A423A3471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBD87F9-731B-42FF-8BED-614A423A3471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBD87F9-731B-42FF-8BED-614A423A3471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBD87F9-731B-42FF-8BED-614A423A3471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DFED05-843E-4EF3-BFB5-99F029544820}
+	EndGlobalSection
+EndGlobal
